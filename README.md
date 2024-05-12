@@ -16,6 +16,7 @@ The goal of this project is to **classify articles** on CNN.com into 5 categorie
 - **BERT (Bidirectional Encoder Representations from Transformers)**
 
 5. Comparison of model performances and selection of the best-performing model.
+![](https://github.com/npphuong210/CNN-Articles-Classification/blob/main/AIII/Discussion.png?raw=true)
 
 
 6. Development of a web application or API to allow users to input text and predict the corresponding category.
